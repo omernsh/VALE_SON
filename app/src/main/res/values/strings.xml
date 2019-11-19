@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vale_yeni</string>
+
+    <string-array name="para_birimleri">
+        <item>TL</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
